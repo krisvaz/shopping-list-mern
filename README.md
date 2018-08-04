@@ -1,5 +1,5 @@
 # shopping-list-mern
-My first MERN application.
+My first MERN application built by following [Traversy Media's tutorial](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
 
 Packaged is a simple shopping list app created using the MERN stack (MongoDB, Express, React, NodeJS)
 
